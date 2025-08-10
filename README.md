@@ -53,7 +53,7 @@ Click "Analyze Sentiment" to see predictions
 View confidence:
 Check the confidence score and visual indicators
 
-
+---------------------------------------------------------------------------------------------
 
 ## 🧠 Model Details
 
@@ -66,6 +66,7 @@ Check the confidence score and visual indicators
 | Model Size    | ~255MB                       |
 | Framework     | 🤗 Transformers, PyTorch      |
 
+---------------------------------------------------------------------------------------------
 
 🔧 Configuration
 The model uses the following key configurations:
@@ -78,8 +79,7 @@ Padding: Dynamic
 
 Return Tensors: PyTorch
 
-
-
+----------------------------------------------------------------------------------------------------------
 
 🔧 Configuration
 The model uses the following key configurations:
@@ -92,6 +92,7 @@ Padding: Dynamic
 
 Return Tensors: PyTorch
 
+--------------------------------------------------------------------------------------------
 
 🚀 Deployment Options
 Local Development

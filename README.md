@@ -3,7 +3,7 @@
 
 A sophisticated Twitter sentiment analysis application powered by a fine-tuned **BERT-base-uncased** model. This project provides real-time sentiment classification for text with an intuitive Streamlit web interface.
 
----
+----
 
 ## 🚀 Features
 
